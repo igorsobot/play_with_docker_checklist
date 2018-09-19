@@ -17,7 +17,7 @@ The list below is based on the https://training.play-with-docker.com/alacart/
   - [x] Windows Containers Basics ( Windows Operations Developer)
   - [x] Docker Orchestration Hands-on Lab ( Operations Networking Swarm)
   - [x] Windows Containers Multi-Container Applications ( Windows Operations Developer Swarm)
-  - [ ] Docker for Beginners - Linux ( Beginner Linux Operations Developer)
+  - [x] Docker for Beginners - Linux ( Beginner Linux Operations Developer)
 
 - [ ] __Intermediate__
 
